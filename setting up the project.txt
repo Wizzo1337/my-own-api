@@ -1,0 +1,4 @@
+mkdir api-project
+cd api-project
+npm init 
+npm install express --save

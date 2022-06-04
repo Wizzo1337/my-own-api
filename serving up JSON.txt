@@ -1,0 +1,3 @@
+app.get('/api/savage', (request, response) => {
+  response.json(object)
+})

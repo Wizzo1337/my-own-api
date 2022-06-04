@@ -1,0 +1,9 @@
+heroku login -i (the -i can be erased if you have 2fa authentiification because it will open the browser to log you in if you have it)
+heroku create simple-rap-api
+echo "web: node server.js" > Procfile
+git add . 
+git commit -m "changes"
+git push heroku main
+
+
+

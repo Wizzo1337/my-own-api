@@ -1,0 +1,2 @@
+touch .gitignore
+then add node_modules to that .gitignore file
